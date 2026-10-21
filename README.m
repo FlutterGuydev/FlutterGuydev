@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @FlutterGuydev know dart, OOP ,Restful API 
-- 👀 I’m interested in Project Management Managing and selling IT products
-- 🌱 I’m currently learning Flutter and Dart language
+Hi, I'm Diyorbek 👋
 
-<!---
-FlutterGuydev/FlutterGuydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Junior Data Analyst · Data Science — Tashkent, Uzbekistan
+
+Final-year Computer Science student (Cardiff Metropolitan University programme) working towards a data role in banking. I run my own e-commerce store, keduz.uz, which is where I learned to clean, match and reconcile real business data.
